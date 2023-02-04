@@ -1,0 +1,3 @@
+[submodule "termuxBot"]
+	path = app
+	url = https://github.com/zsuroy/termuxBot.git

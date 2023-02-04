@@ -1,0 +1,12 @@
+# dot files
+/.vscode/launch.json
+/.settings
+
+# project out
+/build
+/bin
+/obj
+/out
+
+# SUROY
+**/.DS_Store

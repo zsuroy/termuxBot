@@ -1,0 +1,6 @@
+id=TermuxBot
+name=TermuxBot for Android
+version=1.0.2
+versionCode=20230205
+author=Suroy
+description=Termux boot with service scripts for Android
